@@ -3,9 +3,9 @@
 **How to use**
 ---
 
-Run `ip-address-rest-api/mvnw spring-boot:run` to start the application
+* Run `ip-address-rest-api/mvnw spring-boot:run` to start the application
 
-Open a separate command line and send any of the following requests
+* Open a separate command line and send any of the following requests
 
 **List IP Addresses**
 ---
