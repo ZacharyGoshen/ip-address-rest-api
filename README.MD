@@ -3,7 +3,7 @@
 **How to use**
 ---
 
-* Navigate to  `ip-address-rest-api` and rune `./mvnw spring-boot:run` to start the application
+* Navigate to  `/ip-address-rest-api` and run `./mvnw spring-boot:run` to start the application
 
 * Open a separate command line and send any of the following requests
 
